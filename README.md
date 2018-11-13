@@ -2,7 +2,6 @@
 
 ## what is V2Ray?
 ####
-modify.
 [Project V2Ray](https://www.v2ray.com).
 
 ## Download V2RayW
